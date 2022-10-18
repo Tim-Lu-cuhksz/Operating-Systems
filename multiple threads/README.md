@@ -27,4 +27,4 @@ make clear
 ```
 
 ## How To Play
-Use "w" "s" "a" "d" on the key board to move the frog. Hit "q" to quit the game.
+Use "w" "s" "a" "d" on the keyboard to move the frog. Hit "q" to quit the game.
