@@ -25,3 +25,6 @@ make clear
 # run the program
 ./hw2
 ```
+
+## How To Play
+Use "w" "s" "a" "d" on the key board to move the frog. Hit "q" to quit the game.
