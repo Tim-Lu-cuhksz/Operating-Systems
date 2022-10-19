@@ -1,5 +1,5 @@
 # Frog Crossing a River
-
+![image](game.png)
 ## Design
 ### 1.1	Multi-threads Creation
 Since there are in total nine logs moving continually from right to left or vice versa, nine threads have been implemented to move each log. To realize that, we first need to create an array of pthread IDs to store them while initialization. A for loop, along with  the invocation of pthread_create(), will create nine threads to run the targeted function.  Note that the attribute of the pthread is set to default value NULL and arguments indicating the row index of each log are passed to it as well. The row index will be later used to determine the moving direction of the logs (log with odd row number moves leftwards, while that with even number moves rightwards). The function to be executed by the threads is logs_move() which is introduced in section 1.3.
