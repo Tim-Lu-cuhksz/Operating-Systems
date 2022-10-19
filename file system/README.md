@@ -20,4 +20,5 @@ make clean
 
 ## Results
 A sample result is shown as follows.
+
 ![image2](t2.png)
