@@ -1,4 +1,4 @@
-# Kernel module insertion
+# Simplified Virtual Memory
 
 In this project, a simplified virtual memory was implemented. 
 
@@ -7,7 +7,7 @@ Suppose that we are using a 32-bit (virtual address) machine with 256MB RAM and 
 
 ![image](design1.png)
 
-Similarly, the page size in project 3 is 32 bytes, which means that we will use 5 bits in the virtual address to indicate that. Note that an inverted page table is constructed in this project, so the index of each entry is the same as the physical page number.
+Similarly, the page size in this project is 32 bytes, which means that we will use 5 bits in the virtual address to indicate that. Note that an inverted page table is constructed in this project, so the index of each entry is the same as the physical page number.
 
 ## How to run the program?
 ```
