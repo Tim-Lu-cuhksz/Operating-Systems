@@ -51,3 +51,8 @@ dmesg | tail -n 8
 # Remove the module 
 rmmod program2.ko
 ```
+
+## Sample Outputs
+The following picture shows a segmentation_fault signal captured and displayed in the kernel space.
+
+![image](segment_fault.png)
