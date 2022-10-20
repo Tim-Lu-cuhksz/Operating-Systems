@@ -6,6 +6,6 @@ This repository consists of some operating systems projects completed in the fir
 - Multiple threads application
 - Simplified virtual memory implementation
 - Simplified file system
-- File operations
+- File operations in kernel space
 
 Please refer to the specific directory for details.
