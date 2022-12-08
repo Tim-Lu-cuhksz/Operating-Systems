@@ -8,4 +8,4 @@ This repository consists of some operating systems projects completed in the fir
 - Simplified file system
 - File operations in kernel space
 
-Please refer to the specific directory for details. @
+Please refer to the specific directory for details. @Tim-Lu-cuhksz
